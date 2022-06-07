@@ -1,0 +1,15 @@
+$primary: blue;
+$secondary: gray;
+$success: green;
+$info: orange;
+$danger: red;
+$light: white;
+$dark: black;
+
+.App {
+    background: beige;
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    overflow: hidden;
+}
